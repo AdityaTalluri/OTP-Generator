@@ -22,6 +22,7 @@ A  Python script that generates a **numeric One-Time Password (OTP)** with 4 or 
 ```bash
 python otp_generator.py
 
+### 3. Use this Source Code:
 ```python
 import random
 
